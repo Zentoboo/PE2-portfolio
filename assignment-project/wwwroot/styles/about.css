@@ -1,0 +1,163 @@
+:root {
+    --bg-primary: #121212;
+    --bg-secondary: #1E1E1E;
+    --text-primary: #f0f0f0;
+    --text-secondary: #b0b0b0;
+    --accent-red: #D50000;
+    --accent-blue: #0288D1;
+    --accent-green: #00C853;
+    --card-bg: #252525;
+}
+
+.about-page {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+.about-page * {
+    box-sizing: border-box;
+}
+
+.about-page .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.about-page section {
+    padding: 4rem 0;
+    border-bottom: 1px solid #333;
+    animation: fadeIn 0.8s ease forwards;
+}
+
+/* Section Header */
+.about-page .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.about-page .section-title {
+    font-size: 2rem;
+    margin: 0 0 2rem 0;
+    position: relative;
+    display: inline-block;
+}
+
+.about-page .section-title::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    width: 50px;
+    height: 4px;
+    background: var(--accent-blue);
+}
+
+.about-page .section-subtitle {
+    margin: 0;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+/* Grid Layouts */
+.about-page .background-section .content,
+.about-page .hobbies-container,
+.about-page .org-cards {
+    display: grid;
+    gap: 2rem;
+}
+
+.about-page .background-section .content {
+    grid-template-columns: 1fr 1fr;
+}
+
+.about-page .hobbies-container {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.about-page .org-cards {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+/* Cards */
+.about-page .card {
+    background-color: var(--card-bg);
+    padding: 1.5rem;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+    position: relative;
+}
+
+.about-page .info-card {
+    border-right: 4px solid var(--accent-blue);
+}
+
+.about-page .card:hover {
+    transform: translateY(-5px);
+}
+
+.about-page .card h3 {
+    color: var(--accent-blue);
+    margin-bottom: 1rem;
+}
+
+.about-page .org-card {
+    border-left: 4px solid var(--accent-red);
+}
+
+.about-page .org-card .role {
+    color: var(--accent-red);
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.about-page .hobby-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background: var(--accent-green);
+}
+
+/* Contact Section */
+.about-page .contact-section {
+    text-align: center;
+}
+
+.about-page .contact-info {
+    margin: 2rem 0;
+}
+
+.about-page .contact-link {
+    display: inline-flex;
+    align-items: center;
+    color: var(--text-primary);
+    text-decoration: none;
+    margin: 0 1rem;
+    transition: color 0.3s ease;
+}
+
+.about-page .contact-link:hover {
+    color: var(--accent-blue);
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

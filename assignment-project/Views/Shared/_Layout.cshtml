@@ -1,3 +1,8 @@
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    var currentAction = ViewContext.RouteData.Values["action"]?.ToString()?.ToLower();
+}
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,24 +10,27 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="~/styles/headfoot.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewData["Title"]</title>
+    <title>@ViewData["PageTitle"]</title>
 </head>
 
 <body>
     <header>
-        <a href="/"><img class="logo" src="" alt="logo"></a>
+        <p class="logo-text">Chris B.</p>
         <nav>
             <ul class="nav_links">
-                <li><a href="/about">About</a></li>
-                <li><a href="/skills">Skills</li>
-                <li><a href="/contact">Contact</a></li>
+                <li><a href="/" class="@(currentAction == "index" ? "active" : "")">Home</a></li>
+                <li><a href="/about" class="@(currentAction == "about" ? "active" : "")">About</a></li>
+                <li><a href="/skills" class="@(currentAction == "skills" ? "active" : "")">Skills</a></li>
+                <li><a href="/contact" class="@(currentAction == "contact" ? "active" : "")">Contact</a></li>
                 <li><a href="/files/ChristopherBertrand_CV.pdf" download>Download CV</a></li>
             </ul>
         </nav>
     </header>
-    <div>
+
+    <main>
         @RenderBody()
-    </div>
+    </main>
+
     <footer>
         <p>&copy; 2025 - Christopher Bertrand. All rights reserved.</p>
         <p>

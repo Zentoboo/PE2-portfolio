@@ -29,4 +29,6 @@ D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\refint\assig
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\assignment-project.pdb
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\assignment-project.genruntimeconfig.cache
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\ref\assignment-project.dll
-D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\k3pj25sdjw-5ipweew5fc.gz
+D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\assignment-project.sourcelink.json
+D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\k3pj25sdjw-jt1uimnafr.gz
+D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\ddybc78svt-d2b1ffkww9.gz

@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+
+:root {
+    --primary-color: #0088a9;
+    --primary-hover: #00aad2;
+    --dark-bg: #121212;
+    --darker-bg: #0a0a0a;
+    --light-bg: #1e1e1e;
+    --text-primary: #f0f0f0;
+    --text-secondary: #b0b0b0;
+    --text-accent: #0088a9;
+    --transition-speed: 0.3s;
+    --gradient-1: linear-gradient(135deg, #0088a9, #00bcd4);
+    --gradient-2: linear-gradient(135deg, #121212, #1e1e1e);
+}
+
+.home-container {
+    min-height: calc(100vh - 200px);
+    /* Adjust based on header/footer height */
+    display: flex;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.home-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    align-items: center;
+}
+
+/* Left side - Text Section */
+.text-section {
+    padding-right: 20px;
+}
+
+.greeting {
+    color: var(--text-secondary);
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+}
+
+.name {
+    color: var(--primary-color);
+    font-size: 2.95rem;
+    font-weight: 700;
+    margin: 0 0 10px;
+    line-height: 1.1;
+    letter-spacing: 0.5px;
+    background: var(--gradient-1);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.profession-container {
+    margin-bottom: 24px;
+}
+
+.profession {
+    color: var(--text-primary);
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0;
+    line-height: 1.4;
+}
+
+.highlight {
+    color: var(--text-accent);
+    position: relative;
+    font-weight: 600;
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 2px;
+}
+
+.description {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    max-width: 95%;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 28px;
+    border-radius: 50px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all var(--transition-speed) ease;
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.primary-btn {
+    background: var(--gradient-1);
+    color: white;
+    border: none;
+}
+
+.primary-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 136, 169, 0.4);
+}
+
+.secondary-btn {
+    background: transparent;
+    color: var(--text-primary);
+    border: 2px solid var(--primary-color);
+}
+
+.secondary-btn:hover {
+    background-color: rgba(0, 136, 169, 0.1);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 136, 169, 0.3);
+}
+
+/* Right side - Image Section */
+.image-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.image-container {
+    position: relative;
+    width: 400px;
+    height: 500px;
+}
+
+.profile-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+    position: relative;
+    z-index: 2;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    transition: all var(--transition-speed) ease;
+}
+
+.image-shape {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 15px;
+    left: 15px;
+    background: var(--gradient-1);
+    border-radius: 20px;
+    z-index: 1;
+    opacity: 0.8;
+    transition: all var(--transition-speed) ease;
+}
+
+.image-container:hover .profile-image {
+    transform: translateY(-5px);
+}
+
+.image-container:hover .image-shape {
+    transform: translateX(5px) translateY(5px);
+}
+
+/* Responsive design */
+@media (max-width: 992px) {
+    .home-content {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .text-section {
+        padding-right: 0;
+        order: 2;
+    }
+
+    .image-section {
+        order: 1;
+        margin-bottom: 40px;
+    }
+
+    .description {
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .image-container {
+        width: 300px;
+        height: 375px;
+    }
+}
+
+@media (max-width: 576px) {
+    .greeting {
+        font-size: 1.2rem;
+    }
+
+    .name {
+        font-size: 2.5rem;
+    }
+
+    .profession {
+        font-size: 1.2rem;
+    }
+
+    .description {
+        font-size: 1rem;
+    }
+
+    .btn {
+        width: 100%;
+        text-align: center;
+    }
+
+    .image-container {
+        width: 250px;
+        height: 312px;
+    }
+}

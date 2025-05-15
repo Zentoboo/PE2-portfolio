@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
 
 * {
     box-sizing: border-box;
@@ -6,39 +6,212 @@
     padding: 0;
 }
 
-li, a, button {
+:root {
+    --primary-color: #0088a9;
+    --primary-hover: #00aad2;
+    --dark-bg: #121212;
+    --darker-bg: #0a0a0a;
+    --header-bg: rgba(18, 18, 18, 0.95);
+    --text-primary: #f0f0f0;
+    --text-secondary: #b0b0b0;
+    --transition-speed: 0.3s;
+}
+
+body {
     font-family: "Montserrat", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    color: #edf0f1;
-    text-decoration: none;
+    background-color: var(--dark-bg);
+    color: var(--text-primary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.6;
 }
 
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
-    background-color: #24252a;
+    padding: 20px 10%;
+    background-color: var(--darker-bg);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-.logo {
-    cursor: pointer;
+.logo-text {
+    font-size: 22px;
+    color: var(--primary-color);
+    font-weight: 700;
+    letter-spacing: 1px;
+    position: relative;
+    overflow: hidden;
+    padding: 4px 0;
 }
 
 .nav_links {
     list-style: none;
+    display: flex;
 }
 
 .nav_links li {
     display: inline-block;
     padding: 0 20px;
+    position: relative;
 }
 
 .nav_links li a {
-    transition: all 0.3s ease 0s;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--text-primary);
+    text-decoration: none;
+    transition: all var(--transition-speed) ease;
+    padding: 8px 0;
+    position: relative;
+    display: inline-block;
 }
 
-.nav_links li a:hover{
-    color: #0088a9
+.nav_links li a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--primary-color);
+    transition: width var(--transition-speed) ease;
+}
+
+.nav_links li a:hover {
+    color: var(--primary-color);
+    transform: translateY(-2px);
+}
+
+.nav_links li a:hover::after {
+    width: 100%;
+}
+
+/* Active link styling */
+.nav_links li a.active {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.nav_links li a.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: var(--primary-color);
+}
+
+/* Download CV button styling */
+.nav_links li a[download] {
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 50px;
+    padding: 8px 16px;
+    color: #fff;
+    font-weight: 600;
+    transition: all var(--transition-speed) ease;
+    box-shadow: 0 4px 12px rgba(0, 136, 169, 0.3);
+}
+
+.nav_links li a[download]:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 136, 169, 0.4);
+}
+
+.nav_links li a[download]::after {
+    display: none;
+}
+
+main {
+    flex: 1;
+    padding: 40px 10%;
+}
+
+footer {
+    background-color: var(--darker-bg);
+    padding: 30px 10%;
+    text-align: center;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.4);
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+footer p {
+    margin: 12px 0;
+    color: var(--text-secondary);
+    font-size: 14px;
+}
+
+footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+    margin: 0 10px;
+    transition: all var(--transition-speed) ease;
+    position: relative;
+}
+
+footer a::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background-color: var(--primary-color);
+    transition: width var(--transition-speed) ease;
+}
+
+footer a:hover {
+    color: var(--primary-hover);
+}
+
+footer a:hover::after {
+    width: 100%;
+}
+
+/* Heart animation */
+footer p:last-child {
+    margin-top: 20px;
+    font-size: 13px;
+    opacity: 0.8;
+}
+
+footer p:last-child:hover {
+    opacity: 1;
+}
+
+/* Media queries */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        padding: 16px 5%;
+    }
+
+    .logo-text {
+        margin-bottom: 16px;
+    }
+
+    .nav_links {
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    .nav_links li {
+        padding: 6px 12px;
+    }
+    
+    footer {
+        padding: 24px 5%;
+    }
 }
