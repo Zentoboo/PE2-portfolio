@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\files\\ChristopherBertrand_CV.pdf",
+      "PackagePath": "staticwebassets\\files\\ChristopherBertrand_CV.pdf"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\headfoot.css",
+      "PackagePath": "staticwebassets\\styles\\headfoot.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.assignment-project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.assignment-project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.assignment-project.props",
+      "PackagePath": "build\\assignment-project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.assignment-project.props",
+      "PackagePath": "buildMultiTargeting\\assignment-project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.assignment-project.props",
+      "PackagePath": "buildTransitive\\assignment-project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
