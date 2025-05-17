@@ -22,7 +22,7 @@
     padding: 40px 0;
 }
 
-.home-content {
+.home-greeting {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 40px;
@@ -169,7 +169,7 @@
 
 /* Responsive design */
 @media (max-width: 992px) {
-    .home-content {
+    .home-greeting {
         grid-template-columns: 1fr;
         text-align: center;
     }
