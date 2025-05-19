@@ -1,3 +1,58 @@
-*.tmp
+## Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+out/
+[Ll]og/
+
+## ASP.NET temporary files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider IDE
+.idea/
+
+## ASP.NET secrets (do NOT commit this)
+secrets.json
+
+## dotCover
+*.dotCover
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+## Web config transforms
+web.*.config
+
+## Node and npm stuff (if using Node for frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Logs and temp files
 *.log
+*.tmp
+*.bak
+
+## Office files
 *.docx
+
+## Publish output
+publish/
+
+## Others
+.DS_Store
+Thumbs.db
