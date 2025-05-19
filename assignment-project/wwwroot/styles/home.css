@@ -16,11 +16,12 @@
 
 .home-container {
     min-height: calc(100vh - 200px);
-    /* Adjust based on header/footer height */
     display: flex;
+    flex-direction: column;
     align-items: center;
     padding: 40px 0;
 }
+
 
 .home-greeting {
     display: grid;
@@ -221,5 +222,111 @@
     .image-container {
         width: 250px;
         height: 312px;
+    }
+}
+
+/* Current Work Section */
+.current-work {
+    max-width: 1200px;
+    margin: 80px auto 0;
+    padding: 40px 20px;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 40px;
+    text-align: center;
+    color: var(--text-primary);
+}
+
+.projects-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 30px;
+}
+
+.project-card {
+    background: var(--light-bg);
+    border-radius: 15px;
+    padding: 30px;
+    transition: transform var(--transition-speed) ease,
+        box-shadow var(--transition-speed) ease;
+    display: flex;
+    align-items: flex-start;
+    border-left: 4px solid var(--primary-color);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+}
+
+.project-icon {
+    color: var(--primary-color);
+    font-size: 2rem;
+    margin-right: 20px;
+    background: var(--darker-bg);
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-content {
+    flex: 1;
+}
+
+.project-title {
+    color: var(--text-primary);
+    font-size: 1.4rem;
+    margin: 0 0 10px;
+    font-weight: 600;
+}
+
+.project-description {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tech-tag {
+    background: var(--darker-bg);
+    color: var(--primary-color);
+    padding: 5px 12px;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .projects-container {
+        grid-template-columns: 1fr;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .project-card {
+        flex-direction: column;
+    }
+
+    .project-icon {
+        margin-right: 0;
+        margin-bottom: 15px;
     }
 }
