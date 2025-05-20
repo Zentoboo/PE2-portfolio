@@ -33,3 +33,5 @@ D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\assignment-p
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\k3pj25sdjw-jt1uimnafr.gz
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\ddybc78svt-igr5adr6sv.gz
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\ef7o4xfpmy-l7fdms4rbt.gz
+D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\glma7zhs4k-3p09vn5v37.gz
+D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\1oij5uez3v-3lya2vuf9x.gz

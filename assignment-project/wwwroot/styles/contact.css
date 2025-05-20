@@ -1,0 +1,87 @@
+/* Base Styling */
+body.contact-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* Container */
+.contact-container {
+    max-width: 600px;
+    width: 100%;
+    margin: 50px auto;
+    padding: 30px;
+}
+
+/* Heading */
+.contact-container h1 {
+    color: #bb86fc;
+    font-size: 2.5rem;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+/* Contact Card */
+.contact-card {
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Contact Items */
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #333;
+}
+
+.contact-item:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+/* Labels and Links */
+.contact-label {
+    width: 100px;
+    font-weight: 500;
+    color: #bb86fc;
+}
+
+.contact-link {
+    color: #03dac6;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-link:hover {
+    color: #3dffe7;
+    text-decoration: underline;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .contact-container {
+        padding: 15px;
+        margin: 30px auto;
+    }
+
+    .contact-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .contact-label {
+        margin-bottom: 5px;
+    }
+}

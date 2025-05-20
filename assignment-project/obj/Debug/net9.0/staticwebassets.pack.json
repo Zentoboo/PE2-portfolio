@@ -21,12 +21,20 @@
       "PackagePath": "staticwebassets\\styles\\about.css"
     },
     {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\contact.css",
+      "PackagePath": "staticwebassets\\styles\\contact.css"
+    },
+    {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\headfoot.css",
       "PackagePath": "staticwebassets\\styles\\headfoot.css"
     },
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\home.css",
       "PackagePath": "staticwebassets\\styles\\home.css"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\skills.css",
+      "PackagePath": "staticwebassets\\styles\\skills.css"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.assignment-project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

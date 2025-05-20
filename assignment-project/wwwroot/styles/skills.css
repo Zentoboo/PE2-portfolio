@@ -1,0 +1,163 @@
+/* Base Styling */
+body.skills-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* Container */
+.skills-container {
+    max-width: 900px;
+    width: 100%;
+    margin: 50px auto;
+    padding: 30px;
+}
+
+/* Headings */
+.skills-container h1 {
+    color: #bb86fc;
+    font-size: 2.5rem;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+.skills-container h2 {
+    color: #bb86fc;
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.skills-container h3 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+/* Skill Categories */
+.skill-category {
+    color: #03dac6;
+    margin: 30px 0 15px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #333;
+}
+
+/* Skill Card */
+.skills-card {
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Grid Layout */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+/* Skill Item */
+.skill-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    background-color: #2d2d2d;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.skill-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Skill Icon */
+.skill-icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill-icon img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* Skill Info */
+.skill-info {
+    text-align: center;
+    width: 100%;
+}
+
+/* Skill Level Tags */
+.skill-level {
+    margin-top: 8px;
+}
+
+.level {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.level.native {
+    background-color: #4caf50;
+    color: #000;
+}
+
+.level.fluent {
+    background-color: #2196f3;
+    color: #000;
+}
+
+.level.conversational {
+    background-color: #ff9800;
+    color: #000;
+}
+
+.level.basic {
+    background-color: #f44336;
+    color: #fff;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .skills-container {
+        padding: 15px;
+        margin: 30px auto;
+    }
+
+    .skills-grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    }
+
+    .skill-icon {
+        width: 50px;
+        height: 50px;
+    }
+
+    .skills-container h2 {
+        font-size: 1.5rem;
+    }
+
+    .skills-container h3 {
+        font-size: 1rem;
+    }
+}
