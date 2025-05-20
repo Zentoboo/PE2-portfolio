@@ -18,6 +18,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\ChristopherBertrand_CV.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\event-planner-bg.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>assignment-project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/assignment-project</BasePath>
+      <RelativePath>images/background/event-planner-bg.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>klo757j9iz</Fingerprint>
+      <Integrity>SImcKY7px2knR45dxPuie+U1hJnwwlcVjg2fNhgqqjg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\event-planner-bg.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\futsal-bg.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>assignment-project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/assignment-project</BasePath>
+      <RelativePath>images/background/futsal-bg.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lscqi9xhsk</Fingerprint>
+      <Integrity>RSkvcXEjzzwI3WTFRBEdj32A50JUXH9SkbCfMRUtb3k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\futsal-bg.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\profile-photo.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>assignment-project</SourceId>
@@ -48,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m8u4pwbk0m</Fingerprint>
-      <Integrity>6qScJWskifGF12uEmJmkqoDkb6C0hcEbmKR+5soisCo=</Integrity>
+      <Fingerprint>l7fdms4rbt</Fingerprint>
+      <Integrity>QVRTei1leUVjpkBHgCJ5pgJ+RdeN6lzKEDS+/6UKKjY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\about.css'))</OriginalItemSpec>
@@ -84,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1bgdcgmcuw</Fingerprint>
-      <Integrity>zb+rb2DSULZUgCRCRfjINtxH3jRhKsAhKFd1YxUQANU=</Integrity>
+      <Fingerprint>igr5adr6sv</Fingerprint>
+      <Integrity>vhfNb3X9b9LjG4XGUyaQT8xjT1wnlqSMySZBNqgaB3g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\home.css'))</OriginalItemSpec>

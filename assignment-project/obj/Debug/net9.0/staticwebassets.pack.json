@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\files\\ChristopherBertrand_CV.pdf"
     },
     {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\background\\event-planner-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\event-planner-bg.jpg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\background\\futsal-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\futsal-bg.jpg"
+    },
+    {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\profile-photo.jpeg",
       "PackagePath": "staticwebassets\\images\\profile-photo.jpeg"
     },
