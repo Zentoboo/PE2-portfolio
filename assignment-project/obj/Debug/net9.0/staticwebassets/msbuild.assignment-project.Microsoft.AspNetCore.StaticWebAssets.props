@@ -90,6 +90,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\about\background\futsal-bg.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\about\background\professional-bg.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>assignment-project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/assignment-project</BasePath>
+      <RelativePath>images/about/background/professional-bg.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rgb33u8vds</Fingerprint>
+      <Integrity>NUhSCYAz37LP6UL7qVZrf1rQTKUyJmwJCaNbaqW4wHA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\about\background\professional-bg.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\other\ppim-logo.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>assignment-project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/assignment-project</BasePath>
+      <RelativePath>images/other/ppim-logo.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ybxaqbwicn</Fingerprint>
+      <Integrity>wlL+YUcecJTULeiTBb2XnXiECgLNyGQLBCqMUim2nwU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\other\ppim-logo.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\profile-photo.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>assignment-project</SourceId>
@@ -138,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dfiiukn7xk</Fingerprint>
-      <Integrity>N/TN0VuIwVy5s7d+ZSVDpsixLqlDioFKpKAEChHG0xg=</Integrity>
+      <Fingerprint>ri09e3p16c</Fingerprint>
+      <Integrity>4/Q5zwy8/NRHelgY/LXHdImGHId0jxc+xzoeYbVTfAA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\contact.css'))</OriginalItemSpec>
@@ -156,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>83bif5poo8</Fingerprint>
-      <Integrity>pDuZr8PKaDd0z8q6Plg1wrd7epa05rmh9dj7fCitf7Y=</Integrity>
+      <Fingerprint>hcsm0ztr7m</Fingerprint>
+      <Integrity>ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\headfoot.css'))</OriginalItemSpec>
@@ -174,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e3gkrysmwd</Fingerprint>
-      <Integrity>epEvPt+Kl8xQknlhkA+Z/lJ2WeWzCZZFk/6cpkGEGBY=</Integrity>
+      <Fingerprint>ybg4r4we5m</Fingerprint>
+      <Integrity>rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\home.css'))</OriginalItemSpec>
@@ -210,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xxo3iqfxpy</Fingerprint>
-      <Integrity>+zTCpbot7Df4NzukUKoyQ8K7/XM06fARaZfXf4wFZAg=</Integrity>
+      <Fingerprint>3vev4mtmbu</Fingerprint>
+      <Integrity>/0jYbzqIdfZ/Zzvii1rffH08OOWEfCozyegVlher63k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles\_base.css'))</OriginalItemSpec>

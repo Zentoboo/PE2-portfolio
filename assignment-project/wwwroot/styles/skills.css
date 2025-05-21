@@ -107,6 +107,14 @@ body.skills-container {
     object-fit: contain;
 }
 
+/* For darker logos */
+.skill-icon img[alt="Javanese"],
+.skill-icon img[alt="GitHub"] {
+  background-color: var(--text-primary);
+  padding: 4px;
+  border-radius: 6px;
+}
+
 /* Skill Info */
 .skill-info {
     text-align: center;

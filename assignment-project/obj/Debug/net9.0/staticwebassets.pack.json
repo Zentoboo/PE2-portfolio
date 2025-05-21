@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\images\\about\\background\\futsal-bg.jpg"
     },
     {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\professional-bg.webp",
+      "PackagePath": "staticwebassets\\images\\about\\background\\professional-bg.webp"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\ppim-logo.png",
+      "PackagePath": "staticwebassets\\images\\other\\ppim-logo.png"
+    },
+    {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\profile-photo.jpeg",
       "PackagePath": "staticwebassets\\images\\profile-photo.jpeg"
     },
