@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('_base.css');
 
 * {
     box-sizing: border-box;
@@ -7,24 +7,14 @@
 }
 
 :root {
-    --primary-color: #0088a9;
-    --primary-hover: #00aad2;
-    --dark-bg: #121212;
-    --darker-bg: #0a0a0a;
+    /* Additional header-specific variables */
     --header-bg: rgba(18, 18, 18, 0.95);
-    --text-primary: #f0f0f0;
-    --text-secondary: #b0b0b0;
-    --transition-speed: 0.3s;
 }
 
 body {
-    font-family: "Montserrat", sans-serif;
-    background-color: var(--dark-bg);
-    color: var(--text-primary);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    line-height: 1.6;
 }
 
 header {
@@ -32,7 +22,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 10%;
-    background-color: var(--darker-bg);
+    background-color: var(--bg-darker);
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
     position: sticky;
     top: 0;
@@ -63,7 +53,6 @@ header {
 }
 
 .nav_links li a {
-    font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 16px;
     color: var(--text-primary);
@@ -138,7 +127,7 @@ main {
 }
 
 footer {
-    background-color: var(--darker-bg);
+    background-color: var(--bg-darker);
     padding: 30px 10%;
     text-align: center;
     box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.4);

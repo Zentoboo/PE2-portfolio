@@ -1,0 +1,66 @@
+:root {
+    /* Color Palette */
+    --primary-color: #0088a9;
+    --primary-hover: #00aad2;
+    --accent-blue: #0088a9;
+    --accent-darkblue: #0255d1;
+    --accent-darkerblue: #0014c8;
+    
+    /* Background Colors */
+    --bg-primary: #121212;
+    --bg-secondary: #1e1e1e;
+    --bg-darker: #0a0a0a;
+    
+    /* Text Colors */
+    --text-primary: #f0f0f0;
+    --text-secondary: #b0b0b0;
+    
+    /* Effects */
+    --card-bg: rgba(37, 37, 37, 0.75);
+    --card-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    --card-glow: 0 0 15px rgba(0, 136, 209, 0.3);
+    
+    /* Transitions */
+    --transition-speed: 0.3s;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, #005f77, #00bcd4);
+    --gradient-secondary: linear-gradient(135deg, #121212, #1e1e1e);
+}
+
+/* Font Import (to be included once in the main CSS or index.html) */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+
+/* Common Animation Keyframes */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes pulseGlow {
+    0% {
+        box-shadow: var(--card-shadow);
+    }
+    50% {
+        box-shadow: var(--card-shadow), var(--card-glow);
+    }
+    100% {
+        box-shadow: var(--card-shadow);
+    }
+}
+
+/* Common Base Styling */
+body {
+    font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}

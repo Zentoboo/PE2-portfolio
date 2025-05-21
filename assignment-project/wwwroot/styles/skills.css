@@ -1,8 +1,10 @@
+@import url('_base.css');
+
 /* Base Styling */
 body.skills-container {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #121212;
-    color: #e0e0e0;
+    font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
     margin: 0;
     padding: 0;
     display: flex;
@@ -16,22 +18,23 @@ body.skills-container {
     width: 100%;
     margin: 50px auto;
     padding: 30px;
+    animation: fadeIn 0.8s ease forwards;
 }
 
 /* Headings */
 .skills-container h1 {
-    color: #bb86fc;
+    color: var(--primary-color);
     font-size: 2.5rem;
-    font-weight: 300;
+    font-weight: 600;
     text-align: center;
     letter-spacing: 1px;
     margin-bottom: 30px;
 }
 
 .skills-container h2 {
-    color: #bb86fc;
+    color: var(--primary-color);
     font-size: 1.8rem;
-    font-weight: 400;
+    font-weight: 500;
     margin-bottom: 20px;
 }
 
@@ -43,19 +46,24 @@ body.skills-container {
 
 /* Skill Categories */
 .skill-category {
-    color: #03dac6;
+    color: var(--accent-blue);
     margin: 30px 0 15px;
     padding-bottom: 8px;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 /* Skill Card */
 .skills-card {
-    background-color: #1e1e1e;
-    border-radius: 10px;
+    background-color: var(--bg-secondary);
+    border-radius: 16px;
     padding: 25px;
     margin-bottom: 30px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: var(--card-shadow);
+    transition: all var(--transition-speed) ease;
+}
+
+.skills-card:hover {
+    box-shadow: var(--card-shadow), var(--card-glow);
 }
 
 /* Grid Layout */
@@ -72,14 +80,15 @@ body.skills-container {
     flex-direction: column;
     align-items: center;
     padding: 15px;
-    background-color: #2d2d2d;
-    border-radius: 8px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: var(--card-bg);
+    border-radius: 12px;
+    transition: transform var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .skill-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: var(--card-shadow), var(--card-glow);
 }
 
 /* Skill Icon */
@@ -118,23 +127,23 @@ body.skills-container {
 }
 
 .level.native {
-    background-color: #4caf50;
-    color: #000;
+    background-color: var(--accent-darkerblue);
+    color: var(--text-primary);
 }
 
 .level.fluent {
-    background-color: #2196f3;
-    color: #000;
+    background-color: var(--accent-darkblue);
+    color: var(--text-primary);
 }
 
 .level.conversational {
-    background-color: #ff9800;
-    color: #000;
+    background-color: var(--accent-blue);
+    color: var(--text-primary);
 }
 
 .level.basic {
-    background-color: #f44336;
-    color: #fff;
+    background-color: var(--primary-color);
+    color: var(--text-primary);
 }
 
 /* Responsive Styling */

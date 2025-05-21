@@ -1,8 +1,10 @@
+@import url('_base.css');
+
 /* Base Styling */
 body.contact-container {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #121212;
-    color: #e0e0e0;
+    font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
     margin: 0;
     padding: 0;
     display: flex;
@@ -16,13 +18,14 @@ body.contact-container {
     width: 100%;
     margin: 50px auto;
     padding: 30px;
+    animation: fadeIn 0.8s ease forwards;
 }
 
 /* Heading */
 .contact-container h1 {
-    color: #bb86fc;
+    color: var(--primary-color);
     font-size: 2.5rem;
-    font-weight: 300;
+    font-weight: 600;
     text-align: center;
     letter-spacing: 1px;
     margin-bottom: 30px;
@@ -30,10 +33,15 @@ body.contact-container {
 
 /* Contact Card */
 .contact-card {
-    background-color: #1e1e1e;
-    border-radius: 10px;
+    background-color: var(--bg-secondary);
+    border-radius: 16px;
     padding: 25px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: var(--card-shadow);
+    transition: all var(--transition-speed) ease;
+}
+
+.contact-card:hover {
+    box-shadow: var(--card-shadow), var(--card-glow);
 }
 
 /* Contact Items */
@@ -55,17 +63,17 @@ body.contact-container {
 .contact-label {
     width: 100px;
     font-weight: 500;
-    color: #bb86fc;
+    color: var(--primary-color);
 }
 
 .contact-link {
-    color: #03dac6;
+    color: var(--primary-hover);
     text-decoration: none;
-    transition: color 0.3s ease;
+    transition: color var(--transition-speed) ease;
 }
 
 .contact-link:hover {
-    color: #3dffe7;
+    color: var(--accent-darkblue);
     text-decoration: underline;
 }
 

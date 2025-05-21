@@ -5,16 +5,28 @@
       "PackagePath": "staticwebassets\\files\\ChristopherBertrand_CV.pdf"
     },
     {
-      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\background\\event-planner-bg.jpg",
-      "PackagePath": "staticwebassets\\images\\background\\event-planner-bg.jpg"
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\backend-dev-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\background\\backend-dev-bg.jpg"
     },
     {
-      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\background\\futsal-bg.jpg",
-      "PackagePath": "staticwebassets\\images\\background\\futsal-bg.jpg"
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\cultural-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\background\\cultural-bg.jpg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\event-planner-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\background\\event-planner-bg.jpg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\futsal-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\background\\futsal-bg.jpg"
     },
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\profile-photo.jpeg",
       "PackagePath": "staticwebassets\\images\\profile-photo.jpeg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\_base.css",
+      "PackagePath": "staticwebassets\\styles\\_base.css"
     },
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\about.css",
