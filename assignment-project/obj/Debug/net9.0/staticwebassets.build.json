@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IFBcbhVMCdsbC+Q36oUe7nIbUOmOJr+hucDGpvTgJlg=",
+  "Hash": "im0+d7oaLxL2dHAgB4SQX6v9Spu0tWpIlUd4SmuVcGE=",
   "Source": "assignment-project",
   "BasePath": "_content/assignment-project",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-2q3c210jbt.gz",
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-hjaf4tnxkz.gz",
       "SourceId": "assignment-project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/assignment-project",
-      "RelativePath": "styles/skills#[.{fingerprint=2q3c210jbt}]?.css.gz",
+      "RelativePath": "styles/skills#[.{fingerprint=hjaf4tnxkz}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\skills.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2fkfhg4tnf",
-      "Integrity": "HoaFpIWaymMeCm/IyFUo2ZnrXMufn7xOvtXZP1tHedw=",
+      "Fingerprint": "12928hbki8",
+      "Integrity": "WTbY8HXv1oQ+Pu88vvZOXZm+enE1ARCsAbFIEuNxXEE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\skills.css"
@@ -59,33 +59,138 @@
       "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\_base.css"
     },
     {
-      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ddybc78svt-ybg4r4we5m.gz",
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8r0avo8oo8-49ifmr7haq.gz",
       "SourceId": "assignment-project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/assignment-project",
-      "RelativePath": "styles/home#[.{fingerprint=ybg4r4we5m}]?.css.gz",
+      "RelativePath": "images/skills/css#[.{fingerprint=49ifmr7haq}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\home.css",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\css.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2c3lhseo3g",
-      "Integrity": "IoUYpsYmUMNDJDq21OtgXnhTOE+90KmLV7zpBYpvF5A=",
+      "Fingerprint": "tdncyvd4ee",
+      "Integrity": "YQ9dig6LdE4+lhUjXfjaBkF4nfElc634DDFuy72pEp8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\home.css"
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\css.svg"
     },
     {
-      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-puhskf1p15.gz",
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8xs4wnherb-68n560sz0n.gz",
       "SourceId": "assignment-project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/assignment-project",
-      "RelativePath": "styles/about#[.{fingerprint=puhskf1p15}]?.css.gz",
+      "RelativePath": "images/skills/indonesian#[.{fingerprint=68n560sz0n}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\indonesian.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6r2vtwhx2m",
+      "Integrity": "TtP9TymmkVaIb5Ex71/3lfawwnFFT723nThPveAA+Ko=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\indonesian.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\9h51kdz0p2-ffa40cqur4.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/english#[.{fingerprint=ffa40cqur4}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\english.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fgsvgyg3em",
+      "Integrity": "McajSZqHmFOwAJ+TU4VU3jHHA4mZ9dVQ6sAqnVu7JAQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\english.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\bxyzbcwcf2-jffxaucfba.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/chinese#[.{fingerprint=jffxaucfba}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\chinese.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "twhdta30i1",
+      "Integrity": "7XCu95RQP+JxujmvNtqtfZp2kv5snEUGhA9tVJOwxg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\chinese.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\c3rlbr6xlb-t2u70br22b.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/docker#[.{fingerprint=t2u70br22b}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\docker.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "iezqiwhhpo",
+      "Integrity": "uldAWiJCX+hkpZjP12PwXMvthPNmQi4huHt5/prw9w4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\docker.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\cokln0wv9s-afyd69bbtn.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/cpp#[.{fingerprint=afyd69bbtn}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\cpp.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7406f7uut8",
+      "Integrity": "F5E7ol0aCqJZHvPpPXxW57pAtuEnLjmaPXqOIUn/Z5c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\cpp.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-mb83z244l8.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "styles/about#[.{fingerprint=mb83z244l8}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,8 +199,8 @@
       "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\about.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4mmk4vtohb",
-      "Integrity": "fN/GNhGbZw0aRBfYbwDkTgp929Ldn+O7xQIx+CfDeQg=",
+      "Fingerprint": "00gfuumbp3",
+      "Integrity": "QMsHmNpaBdOh+FwOy6aE4YLG8Y21LWcj8wq3y1qhF2E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\about.css"
@@ -122,12 +227,96 @@
       "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\contact.css"
     },
     {
-      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-hcsm0ztr7m.gz",
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6v89m1j3m-hf0gltyvab.gz",
       "SourceId": "assignment-project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/assignment-project",
-      "RelativePath": "styles/headfoot#[.{fingerprint=hcsm0ztr7m}]?.css.gz",
+      "RelativePath": "images/skills/mysql#[.{fingerprint=hf0gltyvab}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\mysql.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9ec33rupbn",
+      "Integrity": "f08SxDc6dfbXTUol/r6sDBuprbtfofp2pVxcrTpVsuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\mysql.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6w9cn8r06-3dpsp1ihr9.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/python#[.{fingerprint=3dpsp1ihr9}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\python.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yeecstaqc8",
+      "Integrity": "BtwPxdj+1xDZKf6Ixh2a1Amra+3myxhwuuwaGIdgFS8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\python.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hbqu330y3m-vt2v0hnoo6.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/html#[.{fingerprint=vt2v0hnoo6}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\html.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pmczhpr14v",
+      "Integrity": "TzAEcux6mx+fIeouDCRuLsS8v1Vr0jqEc5wefamcieg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\html.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hqm36eq9dt-vg4ly5nj94.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "styles/index#[.{fingerprint=vg4ly5nj94}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\index.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jupy70ng7s",
+      "Integrity": "W44x2uA5NjpWFLTDRGdF8DIHsrEoNHfSbfpBsy2HaHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\index.css"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-5hp7bdvx0j.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "styles/headfoot#[.{fingerprint=5hp7bdvx0j}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -136,11 +325,53 @@
       "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\headfoot.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kypd9kdq7p",
-      "Integrity": "rI3mRqPHY9F7qXE1OXE4wT1iGwSCXolc5OHAV6xO5qI=",
+      "Fingerprint": "3740576bwp",
+      "Integrity": "wSla9AWx6Q6iI2am7oaL23TkgDUWQPzKxH3oX2nFwAU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\headfoot.css"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\oqjjihx5x7-at52i3rr6d.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/git#[.{fingerprint=at52i3rr6d}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\git.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9kw1lqy2y7",
+      "Integrity": "5yeVqthgm++YyL8SEbkETCS1Le1mjsgRGaK195ehHlg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\git.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\vwgtv1se0a-aepyk42i53.gz",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/github#[.{fingerprint=aepyk42i53}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\github.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oqt4kazdf5",
+      "Integrity": "kNtZrSp5kHd9N0hQTfck11dH2vTmpOfAGaTXGmUlklQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\github.svg"
     },
     {
       "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\files\\ChristopherBertrand_CV.pdf",
@@ -248,6 +479,27 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\background\\futsal-bg.jpg"
     },
     {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\gaming-bg.jpeg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/about/background/gaming-bg#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fbypqsuxqo",
+      "Integrity": "++Oa55E4A1IG+LNo/T/agPxR7Pk3gNJ18HZA2fILXpM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about\\background\\gaming-bg.jpeg"
+    },
+    {
       "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\professional-bg.webp",
       "SourceId": "assignment-project",
       "SourceType": "Discovered",
@@ -267,6 +519,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\about\\background\\professional-bg.webp"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\secretary-bg.jpg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/about/background/secretary-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "989borpa2l",
+      "Integrity": "eXe7BllKDiQp3Vu5HE4uNlHaMQpQ0Zk6oApV2qsCO4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about\\background\\secretary-bg.jpg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\portfolio-logo.jpeg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/other/portfolio-logo#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6cmxs9u0w5",
+      "Integrity": "qtDiGwJqv6HXzzGaPTGvjPYYc/vV3Qe8tQIP7M9VoFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\other\\portfolio-logo.jpeg"
     },
     {
       "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\ppim-logo.png",
@@ -311,6 +605,300 @@
       "OriginalItemSpec": "wwwroot\\images\\profile-photo.jpeg"
     },
     {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\chinese.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/chinese#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jffxaucfba",
+      "Integrity": "X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\chinese.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\cpp.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/cpp#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afyd69bbtn",
+      "Integrity": "ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\cpp.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\css.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/css#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49ifmr7haq",
+      "Integrity": "KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\css.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\docker.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/docker#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t2u70br22b",
+      "Integrity": "BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\docker.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\english.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/english#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ffa40cqur4",
+      "Integrity": "y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\english.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\git.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/git#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "at52i3rr6d",
+      "Integrity": "7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\git.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\github.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/github#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aepyk42i53",
+      "Integrity": "EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\github.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\html.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/html#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vt2v0hnoo6",
+      "Integrity": "7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\html.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\indonesian.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/indonesian#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "68n560sz0n",
+      "Integrity": "KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\indonesian.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\javanese.png",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/javanese#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ghk6vmwum5",
+      "Integrity": "NMQwJvg07KlLQHB13i+ZWKtBLtItIBw5WxNUH29sXmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\javanese.png"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\js.png",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/js#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g6mwsjhnvb",
+      "Integrity": "SNAhdROuM4Q4LOssL4NZArYazAAcDxMEIdB65p10py0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\js.png"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\mysql.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/mysql#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hf0gltyvab",
+      "Integrity": "LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\mysql.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\python.svg",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/python#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3dpsp1ihr9",
+      "Integrity": "mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\python.svg"
+    },
+    {
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\react.png",
+      "SourceId": "assignment-project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
+      "BasePath": "_content/assignment-project",
+      "RelativePath": "images/skills/react#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lkbaub29cb",
+      "Integrity": "61ycGP2UPS+bUi7+xpSoCa/OovDZwa35v0kgu5404Q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\skills\\react.png"
+    },
+    {
       "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\_base.css",
       "SourceId": "assignment-project",
       "SourceType": "Discovered",
@@ -346,8 +934,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "puhskf1p15",
-      "Integrity": "YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo=",
+      "Fingerprint": "mb83z244l8",
+      "Integrity": "4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\about.css"
@@ -388,19 +976,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hcsm0ztr7m",
-      "Integrity": "ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M=",
+      "Fingerprint": "5hp7bdvx0j",
+      "Integrity": "RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\headfoot.css"
     },
     {
-      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\home.css",
+      "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\index.css",
       "SourceId": "assignment-project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\",
       "BasePath": "_content/assignment-project",
-      "RelativePath": "styles/home#[.{fingerprint}]?.css",
+      "RelativePath": "styles/index#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -409,11 +997,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ybg4r4we5m",
-      "Integrity": "rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk=",
+      "Fingerprint": "vg4ly5nj94",
+      "Integrity": "389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\styles\\home.css"
+      "OriginalItemSpec": "wwwroot\\styles\\index.css"
     },
     {
       "Identity": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\skills.css",
@@ -430,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2q3c210jbt",
-      "Integrity": "JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs=",
+      "Fingerprint": "hjaf4tnxkz",
+      "Integrity": "41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\skills.css"
@@ -849,6 +1437,88 @@
       ]
     },
     {
+      "Route": "images/about/background/gaming-bg.fbypqsuxqo.jpeg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\gaming-bg.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"++Oa55E4A1IG+LNo/T/agPxR7Pk3gNJ18HZA2fILXpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 12:12:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fbypqsuxqo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/about/background/gaming-bg.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-++Oa55E4A1IG+LNo/T/agPxR7Pk3gNJ18HZA2fILXpM="
+        }
+      ]
+    },
+    {
+      "Route": "images/about/background/gaming-bg.jpeg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\gaming-bg.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"++Oa55E4A1IG+LNo/T/agPxR7Pk3gNJ18HZA2fILXpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 12:12:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-++Oa55E4A1IG+LNo/T/agPxR7Pk3gNJ18HZA2fILXpM="
+        }
+      ]
+    },
+    {
       "Route": "images/about/background/professional-bg.rgb33u8vds.webp",
       "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\professional-bg.webp",
       "Selectors": [],
@@ -927,6 +1597,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-NUhSCYAz37LP6UL7qVZrf1rQTKUyJmwJCaNbaqW4wHA="
+        }
+      ]
+    },
+    {
+      "Route": "images/about/background/secretary-bg.989borpa2l.jpg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\secretary-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1655289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eXe7BllKDiQp3Vu5HE4uNlHaMQpQ0Zk6oApV2qsCO4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:10:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "989borpa2l"
+        },
+        {
+          "Name": "label",
+          "Value": "images/about/background/secretary-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eXe7BllKDiQp3Vu5HE4uNlHaMQpQ0Zk6oApV2qsCO4c="
+        }
+      ]
+    },
+    {
+      "Route": "images/about/background/secretary-bg.jpg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\secretary-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1655289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eXe7BllKDiQp3Vu5HE4uNlHaMQpQ0Zk6oApV2qsCO4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:10:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eXe7BllKDiQp3Vu5HE4uNlHaMQpQ0Zk6oApV2qsCO4c="
+        }
+      ]
+    },
+    {
+      "Route": "images/other/portfolio-logo.6cmxs9u0w5.jpeg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\portfolio-logo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtDiGwJqv6HXzzGaPTGvjPYYc/vV3Qe8tQIP7M9VoFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6cmxs9u0w5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/other/portfolio-logo.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtDiGwJqv6HXzzGaPTGvjPYYc/vV3Qe8tQIP7M9VoFg="
+        }
+      ]
+    },
+    {
+      "Route": "images/other/portfolio-logo.jpeg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\portfolio-logo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtDiGwJqv6HXzzGaPTGvjPYYc/vV3Qe8tQIP7M9VoFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtDiGwJqv6HXzzGaPTGvjPYYc/vV3Qe8tQIP7M9VoFg="
         }
       ]
     },
@@ -1091,6 +1925,3530 @@
         {
           "Name": "integrity",
           "Value": "sha256-LYHQcepY5OR5VX6NiNBEuRDt5m8vdgMPzB5+PuHOzt4="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/chinese.jffxaucfba.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\bxyzbcwcf2-jffxaucfba.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003215434084"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7XCu95RQP+JxujmvNtqtfZp2kv5snEUGhA9tVJOwxg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jffxaucfba"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/chinese.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/chinese.jffxaucfba.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\chinese.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jffxaucfba"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/chinese.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/chinese.jffxaucfba.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\bxyzbcwcf2-jffxaucfba.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7XCu95RQP+JxujmvNtqtfZp2kv5snEUGhA9tVJOwxg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jffxaucfba"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/chinese.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7XCu95RQP+JxujmvNtqtfZp2kv5snEUGhA9tVJOwxg4="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/chinese.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\bxyzbcwcf2-jffxaucfba.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003215434084"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7XCu95RQP+JxujmvNtqtfZp2kv5snEUGhA9tVJOwxg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/chinese.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\chinese.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X850Cc0pDms8Xs0JwNLEAK5Fnj1ZxsBTl5OsDoA9AXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/chinese.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\bxyzbcwcf2-jffxaucfba.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7XCu95RQP+JxujmvNtqtfZp2kv5snEUGhA9tVJOwxg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7XCu95RQP+JxujmvNtqtfZp2kv5snEUGhA9tVJOwxg4="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/cpp.afyd69bbtn.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\cokln0wv9s-afyd69bbtn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001071811361"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5E7ol0aCqJZHvPpPXxW57pAtuEnLjmaPXqOIUn/Z5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afyd69bbtn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/cpp.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/cpp.afyd69bbtn.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\cpp.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afyd69bbtn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/cpp.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/cpp.afyd69bbtn.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\cokln0wv9s-afyd69bbtn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5E7ol0aCqJZHvPpPXxW57pAtuEnLjmaPXqOIUn/Z5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afyd69bbtn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/cpp.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5E7ol0aCqJZHvPpPXxW57pAtuEnLjmaPXqOIUn/Z5c="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/cpp.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\cokln0wv9s-afyd69bbtn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001071811361"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5E7ol0aCqJZHvPpPXxW57pAtuEnLjmaPXqOIUn/Z5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/cpp.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\cpp.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/cpp.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\cokln0wv9s-afyd69bbtn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5E7ol0aCqJZHvPpPXxW57pAtuEnLjmaPXqOIUn/Z5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5E7ol0aCqJZHvPpPXxW57pAtuEnLjmaPXqOIUn/Z5c="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/css.49ifmr7haq.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8r0avo8oo8-49ifmr7haq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001196172249"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "835"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YQ9dig6LdE4+lhUjXfjaBkF4nfElc634DDFuy72pEp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49ifmr7haq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/css.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/css.49ifmr7haq.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\css.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49ifmr7haq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/css.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/css.49ifmr7haq.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8r0avo8oo8-49ifmr7haq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YQ9dig6LdE4+lhUjXfjaBkF4nfElc634DDFuy72pEp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49ifmr7haq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/css.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YQ9dig6LdE4+lhUjXfjaBkF4nfElc634DDFuy72pEp8="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/css.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8r0avo8oo8-49ifmr7haq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001196172249"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "835"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YQ9dig6LdE4+lhUjXfjaBkF4nfElc634DDFuy72pEp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/css.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\css.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KNzrOGUbbT1DEZuub1bcbddkFc/t1KcYr81h/Hvsi6M="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/css.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8r0avo8oo8-49ifmr7haq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YQ9dig6LdE4+lhUjXfjaBkF4nfElc634DDFuy72pEp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YQ9dig6LdE4+lhUjXfjaBkF4nfElc634DDFuy72pEp8="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/docker.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\c3rlbr6xlb-t2u70br22b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002617801047"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uldAWiJCX+hkpZjP12PwXMvthPNmQi4huHt5/prw9w4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:04:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/docker.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\docker.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:04:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/docker.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\c3rlbr6xlb-t2u70br22b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uldAWiJCX+hkpZjP12PwXMvthPNmQi4huHt5/prw9w4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:04:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uldAWiJCX+hkpZjP12PwXMvthPNmQi4huHt5/prw9w4="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/docker.t2u70br22b.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\c3rlbr6xlb-t2u70br22b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002617801047"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uldAWiJCX+hkpZjP12PwXMvthPNmQi4huHt5/prw9w4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:04:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2u70br22b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/docker.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/docker.t2u70br22b.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\docker.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:04:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2u70br22b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/docker.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BdA7LXBrhINYtyBN2ODJUS7SlDaV6eAVJCgZj9Xm6sg="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/docker.t2u70br22b.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\c3rlbr6xlb-t2u70br22b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uldAWiJCX+hkpZjP12PwXMvthPNmQi4huHt5/prw9w4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:04:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2u70br22b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/docker.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uldAWiJCX+hkpZjP12PwXMvthPNmQi4huHt5/prw9w4="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/english.ffa40cqur4.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\9h51kdz0p2-ffa40cqur4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002816901408"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"McajSZqHmFOwAJ+TU4VU3jHHA4mZ9dVQ6sAqnVu7JAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffa40cqur4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/english.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/english.ffa40cqur4.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\english.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffa40cqur4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/english.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/english.ffa40cqur4.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\9h51kdz0p2-ffa40cqur4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"McajSZqHmFOwAJ+TU4VU3jHHA4mZ9dVQ6sAqnVu7JAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffa40cqur4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/english.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-McajSZqHmFOwAJ+TU4VU3jHHA4mZ9dVQ6sAqnVu7JAQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/english.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\9h51kdz0p2-ffa40cqur4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002816901408"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"McajSZqHmFOwAJ+TU4VU3jHHA4mZ9dVQ6sAqnVu7JAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/english.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\english.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y92wU3jss19kp3JupKQcMRFFwG/OkmJjd9dThBP89r8="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/english.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\9h51kdz0p2-ffa40cqur4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"McajSZqHmFOwAJ+TU4VU3jHHA4mZ9dVQ6sAqnVu7JAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-McajSZqHmFOwAJ+TU4VU3jHHA4mZ9dVQ6sAqnVu7JAQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/git.at52i3rr6d.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\oqjjihx5x7-at52i3rr6d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002145922747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5yeVqthgm++YyL8SEbkETCS1Le1mjsgRGaK195ehHlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "at52i3rr6d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/git.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/git.at52i3rr6d.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\git.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "at52i3rr6d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/git.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/git.at52i3rr6d.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\oqjjihx5x7-at52i3rr6d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5yeVqthgm++YyL8SEbkETCS1Le1mjsgRGaK195ehHlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "at52i3rr6d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/git.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5yeVqthgm++YyL8SEbkETCS1Le1mjsgRGaK195ehHlg="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/git.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\oqjjihx5x7-at52i3rr6d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002145922747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5yeVqthgm++YyL8SEbkETCS1Le1mjsgRGaK195ehHlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/git.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\git.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7jewwmuuMaVepMf0QjVkapfcZascdP+ZuufdhbU6Rdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/git.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\oqjjihx5x7-at52i3rr6d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5yeVqthgm++YyL8SEbkETCS1Le1mjsgRGaK195ehHlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5yeVqthgm++YyL8SEbkETCS1Le1mjsgRGaK195ehHlg="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/github.aepyk42i53.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\vwgtv1se0a-aepyk42i53.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001937984496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNtZrSp5kHd9N0hQTfck11dH2vTmpOfAGaTXGmUlklQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aepyk42i53"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/github.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/github.aepyk42i53.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\github.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aepyk42i53"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/github.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/github.aepyk42i53.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\vwgtv1se0a-aepyk42i53.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNtZrSp5kHd9N0hQTfck11dH2vTmpOfAGaTXGmUlklQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aepyk42i53"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/github.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNtZrSp5kHd9N0hQTfck11dH2vTmpOfAGaTXGmUlklQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/github.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\vwgtv1se0a-aepyk42i53.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001937984496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNtZrSp5kHd9N0hQTfck11dH2vTmpOfAGaTXGmUlklQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/github.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\github.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EnlDkMzn0Ggv/Hg8eF5CgjBWhEMbMLKe11wiTaJANbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/github.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\vwgtv1se0a-aepyk42i53.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNtZrSp5kHd9N0hQTfck11dH2vTmpOfAGaTXGmUlklQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNtZrSp5kHd9N0hQTfck11dH2vTmpOfAGaTXGmUlklQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/html.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hbqu330y3m-vt2v0hnoo6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002475247525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TzAEcux6mx+fIeouDCRuLsS8v1Vr0jqEc5wefamcieg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/html.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\html.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/html.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hbqu330y3m-vt2v0hnoo6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TzAEcux6mx+fIeouDCRuLsS8v1Vr0jqEc5wefamcieg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TzAEcux6mx+fIeouDCRuLsS8v1Vr0jqEc5wefamcieg="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/html.vt2v0hnoo6.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hbqu330y3m-vt2v0hnoo6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002475247525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TzAEcux6mx+fIeouDCRuLsS8v1Vr0jqEc5wefamcieg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vt2v0hnoo6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/html.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/html.vt2v0hnoo6.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\html.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vt2v0hnoo6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/html.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Yt0337AYjuLVPjQQz0z+23/bqNQYbmO5Q5sC+IRtm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/html.vt2v0hnoo6.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hbqu330y3m-vt2v0hnoo6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TzAEcux6mx+fIeouDCRuLsS8v1Vr0jqEc5wefamcieg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vt2v0hnoo6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/html.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TzAEcux6mx+fIeouDCRuLsS8v1Vr0jqEc5wefamcieg="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/indonesian.68n560sz0n.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8xs4wnherb-68n560sz0n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007751937984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TtP9TymmkVaIb5Ex71/3lfawwnFFT723nThPveAA+Ko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "68n560sz0n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/indonesian.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/indonesian.68n560sz0n.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\indonesian.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "68n560sz0n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/indonesian.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/indonesian.68n560sz0n.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8xs4wnherb-68n560sz0n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TtP9TymmkVaIb5Ex71/3lfawwnFFT723nThPveAA+Ko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "68n560sz0n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/indonesian.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TtP9TymmkVaIb5Ex71/3lfawwnFFT723nThPveAA+Ko="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/indonesian.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8xs4wnherb-68n560sz0n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007751937984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TtP9TymmkVaIb5Ex71/3lfawwnFFT723nThPveAA+Ko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/indonesian.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\indonesian.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KrV9LUGLq6ew/1VylDXQx4DKUqmLdU+S1E6WzROZ2uU="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/indonesian.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\8xs4wnherb-68n560sz0n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TtP9TymmkVaIb5Ex71/3lfawwnFFT723nThPveAA+Ko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:57:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TtP9TymmkVaIb5Ex71/3lfawwnFFT723nThPveAA+Ko="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/javanese.ghk6vmwum5.png",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\javanese.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NMQwJvg07KlLQHB13i+ZWKtBLtItIBw5WxNUH29sXmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:14:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghk6vmwum5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/javanese.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NMQwJvg07KlLQHB13i+ZWKtBLtItIBw5WxNUH29sXmI="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/javanese.png",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\javanese.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NMQwJvg07KlLQHB13i+ZWKtBLtItIBw5WxNUH29sXmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:14:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NMQwJvg07KlLQHB13i+ZWKtBLtItIBw5WxNUH29sXmI="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/js.g6mwsjhnvb.png",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\js.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SNAhdROuM4Q4LOssL4NZArYazAAcDxMEIdB65p10py0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:02:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g6mwsjhnvb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/js.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SNAhdROuM4Q4LOssL4NZArYazAAcDxMEIdB65p10py0="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/js.png",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\js.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SNAhdROuM4Q4LOssL4NZArYazAAcDxMEIdB65p10py0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:02:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SNAhdROuM4Q4LOssL4NZArYazAAcDxMEIdB65p10py0="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/mysql.hf0gltyvab.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6v89m1j3m-hf0gltyvab.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000349162011"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2863"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f08SxDc6dfbXTUol/r6sDBuprbtfofp2pVxcrTpVsuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf0gltyvab"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/mysql.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/mysql.hf0gltyvab.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\mysql.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf0gltyvab"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/mysql.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/mysql.hf0gltyvab.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6v89m1j3m-hf0gltyvab.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f08SxDc6dfbXTUol/r6sDBuprbtfofp2pVxcrTpVsuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf0gltyvab"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/mysql.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f08SxDc6dfbXTUol/r6sDBuprbtfofp2pVxcrTpVsuE="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/mysql.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6v89m1j3m-hf0gltyvab.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000349162011"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2863"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f08SxDc6dfbXTUol/r6sDBuprbtfofp2pVxcrTpVsuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/mysql.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\mysql.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQ/qQLA07+Z7o9d2N66DukOgqQiwZzXz5voGH0z/xok="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/mysql.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6v89m1j3m-hf0gltyvab.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f08SxDc6dfbXTUol/r6sDBuprbtfofp2pVxcrTpVsuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f08SxDc6dfbXTUol/r6sDBuprbtfofp2pVxcrTpVsuE="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/python.3dpsp1ihr9.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6w9cn8r06-3dpsp1ihr9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001106194690"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtwPxdj+1xDZKf6Ixh2a1Amra+3myxhwuuwaGIdgFS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dpsp1ihr9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/python.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/python.3dpsp1ihr9.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\python.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dpsp1ihr9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/python.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/python.3dpsp1ihr9.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6w9cn8r06-3dpsp1ihr9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtwPxdj+1xDZKf6Ixh2a1Amra+3myxhwuuwaGIdgFS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dpsp1ihr9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/python.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BtwPxdj+1xDZKf6Ixh2a1Amra+3myxhwuuwaGIdgFS8="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/python.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6w9cn8r06-3dpsp1ihr9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001106194690"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtwPxdj+1xDZKf6Ixh2a1Amra+3myxhwuuwaGIdgFS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/python.svg",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\python.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mdMfpbSlCUq3TeK994SVHwBNHdtsdJKCwn7RcxmZkRU="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/python.svg.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\h6w9cn8r06-3dpsp1ihr9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtwPxdj+1xDZKf6Ixh2a1Amra+3myxhwuuwaGIdgFS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BtwPxdj+1xDZKf6Ixh2a1Amra+3myxhwuuwaGIdgFS8="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/react.lkbaub29cb.png",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\react.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61ycGP2UPS+bUi7+xpSoCa/OovDZwa35v0kgu5404Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:02:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lkbaub29cb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/skills/react.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-61ycGP2UPS+bUi7+xpSoCa/OovDZwa35v0kgu5404Q0="
+        }
+      ]
+    },
+    {
+      "Route": "images/skills/react.png",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\react.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61ycGP2UPS+bUi7+xpSoCa/OovDZwa35v0kgu5404Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:02:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-61ycGP2UPS+bUi7+xpSoCa/OovDZwa35v0kgu5404Q0="
         }
       ]
     },
@@ -1394,12 +5752,12 @@
     },
     {
       "Route": "styles/about.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-puhskf1p15.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-mb83z244l8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000478927203"
+          "Quality": "0.000501253133"
         }
       ],
       "ResponseHeaders": [
@@ -1409,15 +5767,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2087"
+          "Value": "1994"
         },
         {
           "Name": "ETag",
-          "Value": "\"fN/GNhGbZw0aRBfYbwDkTgp929Ldn+O7xQIx+CfDeQg=\""
+          "Value": "\"QMsHmNpaBdOh+FwOy6aE4YLG8Y21LWcj8wq3y1qhF2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:24:47 GMT"
+          "Value": "Thu, 22 May 2025 12:35:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1437,13 +5795,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo=\""
+          "Value": "W/\"4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo="
+          "Value": "sha256-4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis="
         }
       ]
     },
@@ -1458,7 +5816,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7966"
+          "Value": "7487"
         },
         {
           "Name": "Content-Type",
@@ -1466,11 +5824,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo=\""
+          "Value": "\"4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:24:47 GMT"
+          "Value": "Thu, 22 May 2025 12:35:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1480,13 +5838,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo="
+          "Value": "sha256-4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis="
         }
       ]
     },
     {
       "Route": "styles/about.css.gz",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-puhskf1p15.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-mb83z244l8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1495,7 +5853,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2087"
+          "Value": "1994"
         },
         {
           "Name": "Content-Type",
@@ -1503,11 +5861,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fN/GNhGbZw0aRBfYbwDkTgp929Ldn+O7xQIx+CfDeQg=\""
+          "Value": "\"QMsHmNpaBdOh+FwOy6aE4YLG8Y21LWcj8wq3y1qhF2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:24:47 GMT"
+          "Value": "Thu, 22 May 2025 12:35:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1525,18 +5883,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fN/GNhGbZw0aRBfYbwDkTgp929Ldn+O7xQIx+CfDeQg="
+          "Value": "sha256-QMsHmNpaBdOh+FwOy6aE4YLG8Y21LWcj8wq3y1qhF2E="
         }
       ]
     },
     {
-      "Route": "styles/about.puhskf1p15.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-puhskf1p15.gz",
+      "Route": "styles/about.mb83z244l8.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-mb83z244l8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000478927203"
+          "Quality": "0.000501253133"
         }
       ],
       "ResponseHeaders": [
@@ -1546,15 +5904,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2087"
+          "Value": "1994"
         },
         {
           "Name": "ETag",
-          "Value": "\"fN/GNhGbZw0aRBfYbwDkTgp929Ldn+O7xQIx+CfDeQg=\""
+          "Value": "\"QMsHmNpaBdOh+FwOy6aE4YLG8Y21LWcj8wq3y1qhF2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:24:47 GMT"
+          "Value": "Thu, 22 May 2025 12:35:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1574,13 +5932,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo=\""
+          "Value": "W/\"4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "puhskf1p15"
+          "Value": "mb83z244l8"
         },
         {
           "Name": "label",
@@ -1588,12 +5946,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo="
+          "Value": "sha256-4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis="
         }
       ]
     },
     {
-      "Route": "styles/about.puhskf1p15.css",
+      "Route": "styles/about.mb83z244l8.css",
       "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\about.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1603,7 +5961,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7966"
+          "Value": "7487"
         },
         {
           "Name": "Content-Type",
@@ -1611,11 +5969,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo=\""
+          "Value": "\"4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:24:47 GMT"
+          "Value": "Thu, 22 May 2025 12:35:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1625,7 +5983,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "puhskf1p15"
+          "Value": "mb83z244l8"
         },
         {
           "Name": "label",
@@ -1633,13 +5991,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YcncXxpDt7pd82VhkJJo0ablL/b61vxV2Xm/G95zCLo="
+          "Value": "sha256-4tfSxYzzOqYfLtte1lJ6uo6yI/YhAAinflVHPBMuEis="
         }
       ]
     },
     {
-      "Route": "styles/about.puhskf1p15.css.gz",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-puhskf1p15.gz",
+      "Route": "styles/about.mb83z244l8.css.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ef7o4xfpmy-mb83z244l8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1648,7 +6006,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2087"
+          "Value": "1994"
         },
         {
           "Name": "Content-Type",
@@ -1656,11 +6014,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fN/GNhGbZw0aRBfYbwDkTgp929Ldn+O7xQIx+CfDeQg=\""
+          "Value": "\"QMsHmNpaBdOh+FwOy6aE4YLG8Y21LWcj8wq3y1qhF2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:24:47 GMT"
+          "Value": "Thu, 22 May 2025 12:35:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1678,7 +6036,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "puhskf1p15"
+          "Value": "mb83z244l8"
         },
         {
           "Name": "label",
@@ -1686,7 +6044,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fN/GNhGbZw0aRBfYbwDkTgp929Ldn+O7xQIx+CfDeQg="
+          "Value": "sha256-QMsHmNpaBdOh+FwOy6aE4YLG8Y21LWcj8wq3y1qhF2E="
         }
       ]
     },
@@ -1715,7 +6073,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:35:59 GMT"
+          "Value": "Wed, 21 May 2025 11:50:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1768,7 +6126,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:35:59 GMT"
+          "Value": "Wed, 21 May 2025 11:50:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1805,7 +6163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:35:59 GMT"
+          "Value": "Wed, 21 May 2025 11:50:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1852,7 +6210,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:35:59 GMT"
+          "Value": "Wed, 21 May 2025 11:50:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1913,7 +6271,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:35:59 GMT"
+          "Value": "Wed, 21 May 2025 11:50:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1958,7 +6316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:35:59 GMT"
+          "Value": "Wed, 21 May 2025 11:50:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1989,13 +6347,13 @@
       ]
     },
     {
-      "Route": "styles/headfoot.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-hcsm0ztr7m.gz",
+      "Route": "styles/headfoot.5hp7bdvx0j.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-5hp7bdvx0j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000913242009"
+          "Quality": "0.000904977376"
         }
       ],
       "ResponseHeaders": [
@@ -2005,19 +6363,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1094"
+          "Value": "1104"
         },
         {
           "Name": "ETag",
-          "Value": "\"rI3mRqPHY9F7qXE1OXE4wT1iGwSCXolc5OHAV6xO5qI=\""
+          "Value": "\"wSla9AWx6Q6iI2am7oaL23TkgDUWQPzKxH3oX2nFwAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:32:18 GMT"
+          "Value": "Thu, 22 May 2025 12:00:34 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2033,18 +6391,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M=\""
+          "Value": "W/\"RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "5hp7bdvx0j"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/headfoot.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M="
+          "Value": "sha256-RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk="
         }
       ]
     },
     {
-      "Route": "styles/headfoot.css",
+      "Route": "styles/headfoot.5hp7bdvx0j.css",
       "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\headfoot.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2054,7 +6420,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3968"
+          "Value": "3993"
         },
         {
           "Name": "Content-Type",
@@ -2062,121 +6428,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M=\""
+          "Value": "\"RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:32:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M="
-        }
-      ]
-    },
-    {
-      "Route": "styles/headfoot.css.gz",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-hcsm0ztr7m.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1094"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rI3mRqPHY9F7qXE1OXE4wT1iGwSCXolc5OHAV6xO5qI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:32:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rI3mRqPHY9F7qXE1OXE4wT1iGwSCXolc5OHAV6xO5qI="
-        }
-      ]
-    },
-    {
-      "Route": "styles/headfoot.hcsm0ztr7m.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-hcsm0ztr7m.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000913242009"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1094"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rI3mRqPHY9F7qXE1OXE4wT1iGwSCXolc5OHAV6xO5qI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:32:18 GMT"
+          "Value": "Thu, 22 May 2025 12:00:34 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hcsm0ztr7m"
+          "Value": "5hp7bdvx0j"
         },
         {
           "Name": "label",
@@ -2184,13 +6450,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M="
+          "Value": "sha256-RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk="
         }
       ]
     },
     {
-      "Route": "styles/headfoot.hcsm0ztr7m.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\headfoot.css",
+      "Route": "styles/headfoot.5hp7bdvx0j.css.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-5hp7bdvx0j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2199,7 +6465,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3968"
+          "Value": "1104"
         },
         {
           "Name": "Content-Type",
@@ -2207,56 +6473,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M=\""
+          "Value": "\"wSla9AWx6Q6iI2am7oaL23TkgDUWQPzKxH3oX2nFwAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:32:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hcsm0ztr7m"
-        },
-        {
-          "Name": "label",
-          "Value": "styles/headfoot.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ATX5vfCM/EJgHMotthRw4gjCROJAlEroaxGpCs1Kg0M="
-        }
-      ]
-    },
-    {
-      "Route": "styles/headfoot.hcsm0ztr7m.css.gz",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-hcsm0ztr7m.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1094"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rI3mRqPHY9F7qXE1OXE4wT1iGwSCXolc5OHAV6xO5qI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:32:18 GMT"
+          "Value": "Thu, 22 May 2025 12:00:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2274,7 +6495,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hcsm0ztr7m"
+          "Value": "5hp7bdvx0j"
         },
         {
           "Name": "label",
@@ -2282,18 +6503,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rI3mRqPHY9F7qXE1OXE4wT1iGwSCXolc5OHAV6xO5qI="
+          "Value": "sha256-wSla9AWx6Q6iI2am7oaL23TkgDUWQPzKxH3oX2nFwAU="
         }
       ]
     },
     {
-      "Route": "styles/home.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ddybc78svt-ybg4r4we5m.gz",
+      "Route": "styles/headfoot.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-5hp7bdvx0j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000604594921"
+          "Quality": "0.000904977376"
         }
       ],
       "ResponseHeaders": [
@@ -2303,15 +6524,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1653"
+          "Value": "1104"
         },
         {
           "Name": "ETag",
-          "Value": "\"IoUYpsYmUMNDJDq21OtgXnhTOE+90KmLV7zpBYpvF5A=\""
+          "Value": "\"wSla9AWx6Q6iI2am7oaL23TkgDUWQPzKxH3oX2nFwAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:55:07 GMT"
+          "Value": "Thu, 22 May 2025 12:00:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2331,19 +6552,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk=\""
+          "Value": "W/\"RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk="
+          "Value": "sha256-RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk="
         }
       ]
     },
     {
-      "Route": "styles/home.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\home.css",
+      "Route": "styles/headfoot.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\headfoot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2352,7 +6573,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7403"
+          "Value": "3993"
         },
         {
           "Name": "Content-Type",
@@ -2360,11 +6581,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk=\""
+          "Value": "\"RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:55:07 GMT"
+          "Value": "Thu, 22 May 2025 12:00:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2374,13 +6595,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk="
+          "Value": "sha256-RxRBR7iFIhXzUEA2Pw5AwTk1A8Hzu5H/1eBc4wvXRVk="
         }
       ]
     },
     {
-      "Route": "styles/home.css.gz",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ddybc78svt-ybg4r4we5m.gz",
+      "Route": "styles/headfoot.css.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\k3pj25sdjw-5hp7bdvx0j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2389,7 +6610,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1653"
+          "Value": "1104"
         },
         {
           "Name": "Content-Type",
@@ -2397,11 +6618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IoUYpsYmUMNDJDq21OtgXnhTOE+90KmLV7zpBYpvF5A=\""
+          "Value": "\"wSla9AWx6Q6iI2am7oaL23TkgDUWQPzKxH3oX2nFwAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:55:07 GMT"
+          "Value": "Thu, 22 May 2025 12:00:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2419,18 +6640,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IoUYpsYmUMNDJDq21OtgXnhTOE+90KmLV7zpBYpvF5A="
+          "Value": "sha256-wSla9AWx6Q6iI2am7oaL23TkgDUWQPzKxH3oX2nFwAU="
         }
       ]
     },
     {
-      "Route": "styles/home.ybg4r4we5m.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ddybc78svt-ybg4r4we5m.gz",
+      "Route": "styles/index.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hqm36eq9dt-vg4ly5nj94.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000604594921"
+          "Quality": "0.000602046960"
         }
       ],
       "ResponseHeaders": [
@@ -2440,19 +6661,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1653"
+          "Value": "1660"
         },
         {
           "Name": "ETag",
-          "Value": "\"IoUYpsYmUMNDJDq21OtgXnhTOE+90KmLV7zpBYpvF5A=\""
+          "Value": "\"W44x2uA5NjpWFLTDRGdF8DIHsrEoNHfSbfpBsy2HaHg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:55:07 GMT"
+          "Value": "Thu, 22 May 2025 12:00:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2468,27 +6689,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk=\""
+          "Value": "W/\"389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "ybg4r4we5m"
-        },
-        {
-          "Name": "label",
-          "Value": "styles/home.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk="
+          "Value": "sha256-389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww="
         }
       ]
     },
     {
-      "Route": "styles/home.ybg4r4we5m.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\home.css",
+      "Route": "styles/index.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\index.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2497,7 +6710,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7403"
+          "Value": "7422"
         },
         {
           "Name": "Content-Type",
@@ -2505,35 +6718,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk=\""
+          "Value": "\"389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:55:07 GMT"
+          "Value": "Thu, 22 May 2025 12:00:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "ybg4r4we5m"
-        },
-        {
-          "Name": "label",
-          "Value": "styles/home.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-rjbYRqFwZ5wIXld8a/rzmtYD6zVlGg1M7K5fvQiItbk="
+          "Value": "sha256-389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww="
         }
       ]
     },
     {
-      "Route": "styles/home.ybg4r4we5m.css.gz",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\ddybc78svt-ybg4r4we5m.gz",
+      "Route": "styles/index.css.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hqm36eq9dt-vg4ly5nj94.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2542,7 +6747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1653"
+          "Value": "1660"
         },
         {
           "Name": "Content-Type",
@@ -2550,15 +6755,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IoUYpsYmUMNDJDq21OtgXnhTOE+90KmLV7zpBYpvF5A=\""
+          "Value": "\"W44x2uA5NjpWFLTDRGdF8DIHsrEoNHfSbfpBsy2HaHg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:55:07 GMT"
+          "Value": "Thu, 22 May 2025 12:00:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2571,27 +6776,19 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "ybg4r4we5m"
-        },
-        {
-          "Name": "label",
-          "Value": "styles/home.css.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-IoUYpsYmUMNDJDq21OtgXnhTOE+90KmLV7zpBYpvF5A="
+          "Value": "sha256-W44x2uA5NjpWFLTDRGdF8DIHsrEoNHfSbfpBsy2HaHg="
         }
       ]
     },
     {
-      "Route": "styles/skills.2q3c210jbt.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-2q3c210jbt.gz",
+      "Route": "styles/index.vg4ly5nj94.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hqm36eq9dt-vg4ly5nj94.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000974658869"
+          "Quality": "0.000602046960"
         }
       ],
       "ResponseHeaders": [
@@ -2601,15 +6798,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1025"
+          "Value": "1660"
         },
         {
           "Name": "ETag",
-          "Value": "\"HoaFpIWaymMeCm/IyFUo2ZnrXMufn7xOvtXZP1tHedw=\""
+          "Value": "\"W44x2uA5NjpWFLTDRGdF8DIHsrEoNHfSbfpBsy2HaHg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:29:56 GMT"
+          "Value": "Thu, 22 May 2025 12:00:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2629,26 +6826,179 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs=\""
+          "Value": "W/\"389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2q3c210jbt"
+          "Value": "vg4ly5nj94"
         },
         {
           "Name": "label",
-          "Value": "styles/skills.css"
+          "Value": "styles/index.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs="
+          "Value": "sha256-389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww="
         }
       ]
     },
     {
-      "Route": "styles/skills.2q3c210jbt.css",
+      "Route": "styles/index.vg4ly5nj94.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 12:00:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vg4ly5nj94"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-389t2brLFdwEJ4g2xGoCjkn1rD4Jla8O1/shCFUs5ww="
+        }
+      ]
+    },
+    {
+      "Route": "styles/index.vg4ly5nj94.css.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\hqm36eq9dt-vg4ly5nj94.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W44x2uA5NjpWFLTDRGdF8DIHsrEoNHfSbfpBsy2HaHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 12:00:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vg4ly5nj94"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/index.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W44x2uA5NjpWFLTDRGdF8DIHsrEoNHfSbfpBsy2HaHg="
+        }
+      ]
+    },
+    {
+      "Route": "styles/skills.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-hjaf4tnxkz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000919963201"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1086"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTbY8HXv1oQ+Pu88vvZOXZm+enE1ARCsAbFIEuNxXEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE="
+        }
+      ]
+    },
+    {
+      "Route": "styles/skills.css",
       "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\skills.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2658,7 +7008,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "3678"
         },
         {
           "Name": "Content-Type",
@@ -2666,11 +7016,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs=\""
+          "Value": "\"41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:29:56 GMT"
+          "Value": "Wed, 21 May 2025 12:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE="
+        }
+      ]
+    },
+    {
+      "Route": "styles/skills.css.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-hjaf4tnxkz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTbY8HXv1oQ+Pu88vvZOXZm+enE1ARCsAbFIEuNxXEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WTbY8HXv1oQ+Pu88vvZOXZm+enE1ARCsAbFIEuNxXEE="
+        }
+      ]
+    },
+    {
+      "Route": "styles/skills.hjaf4tnxkz.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-hjaf4tnxkz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000919963201"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1086"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTbY8HXv1oQ+Pu88vvZOXZm+enE1ARCsAbFIEuNxXEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hjaf4tnxkz"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/skills.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE="
+        }
+      ]
+    },
+    {
+      "Route": "styles/skills.hjaf4tnxkz.css",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\skills.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 12:24:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2680,7 +7175,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2q3c210jbt"
+          "Value": "hjaf4tnxkz"
         },
         {
           "Name": "label",
@@ -2688,13 +7183,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs="
+          "Value": "sha256-41SJB3QFLFyvd+1jfQSS6nDM/UJ0eAc7suqNZ5pefdE="
         }
       ]
     },
     {
-      "Route": "styles/skills.2q3c210jbt.css.gz",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-2q3c210jbt.gz",
+      "Route": "styles/skills.hjaf4tnxkz.css.gz",
+      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-hjaf4tnxkz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2703,7 +7198,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1025"
+          "Value": "1086"
         },
         {
           "Name": "Content-Type",
@@ -2711,11 +7206,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HoaFpIWaymMeCm/IyFUo2ZnrXMufn7xOvtXZP1tHedw=\""
+          "Value": "\"WTbY8HXv1oQ+Pu88vvZOXZm+enE1ARCsAbFIEuNxXEE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:29:56 GMT"
+          "Value": "Wed, 21 May 2025 12:24:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2733,7 +7228,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2q3c210jbt"
+          "Value": "hjaf4tnxkz"
         },
         {
           "Name": "label",
@@ -2741,144 +7236,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HoaFpIWaymMeCm/IyFUo2ZnrXMufn7xOvtXZP1tHedw="
-        }
-      ]
-    },
-    {
-      "Route": "styles/skills.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-2q3c210jbt.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000974658869"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1025"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HoaFpIWaymMeCm/IyFUo2ZnrXMufn7xOvtXZP1tHedw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:29:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs="
-        }
-      ]
-    },
-    {
-      "Route": "styles/skills.css",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\skills.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3500"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:29:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JryL7+aJY8n2+Q/BccffXFC5k+Zq+t5vKbBOL+cqHUs="
-        }
-      ]
-    },
-    {
-      "Route": "styles/skills.css.gz",
-      "AssetFile": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\obj\\Debug\\net9.0\\compressed\\1oij5uez3v-2q3c210jbt.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1025"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HoaFpIWaymMeCm/IyFUo2ZnrXMufn7xOvtXZP1tHedw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 06:29:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HoaFpIWaymMeCm/IyFUo2ZnrXMufn7xOvtXZP1tHedw="
+          "Value": "sha256-WTbY8HXv1oQ+Pu88vvZOXZm+enE1ARCsAbFIEuNxXEE="
         }
       ]
     }

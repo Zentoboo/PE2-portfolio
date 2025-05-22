@@ -21,8 +21,20 @@
       "PackagePath": "staticwebassets\\images\\about\\background\\futsal-bg.jpg"
     },
     {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\gaming-bg.jpeg",
+      "PackagePath": "staticwebassets\\images\\about\\background\\gaming-bg.jpeg"
+    },
+    {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\professional-bg.webp",
       "PackagePath": "staticwebassets\\images\\about\\background\\professional-bg.webp"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\about\\background\\secretary-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\background\\secretary-bg.jpg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\portfolio-logo.jpeg",
+      "PackagePath": "staticwebassets\\images\\other\\portfolio-logo.jpeg"
     },
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\ppim-logo.png",
@@ -31,6 +43,62 @@
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\profile-photo.jpeg",
       "PackagePath": "staticwebassets\\images\\profile-photo.jpeg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\chinese.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\chinese.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\cpp.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\cpp.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\css.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\css.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\docker.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\docker.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\english.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\english.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\git.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\git.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\github.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\github.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\html.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\html.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\indonesian.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\indonesian.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\javanese.png",
+      "PackagePath": "staticwebassets\\images\\skills\\javanese.png"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\js.png",
+      "PackagePath": "staticwebassets\\images\\skills\\js.png"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\mysql.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\mysql.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\python.svg",
+      "PackagePath": "staticwebassets\\images\\skills\\python.svg"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\react.png",
+      "PackagePath": "staticwebassets\\images\\skills\\react.png"
     },
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\_base.css",
@@ -49,8 +117,8 @@
       "PackagePath": "staticwebassets\\styles\\headfoot.css"
     },
     {
-      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\home.css",
-      "PackagePath": "staticwebassets\\styles\\home.css"
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\index.css",
+      "PackagePath": "staticwebassets\\styles\\index.css"
     },
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\skills.css",

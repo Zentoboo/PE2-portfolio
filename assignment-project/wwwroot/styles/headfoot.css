@@ -99,8 +99,8 @@ header {
     background-color: var(--primary-color);
 }
 
-/* Download CV button styling */
-.nav_links li a[download] {
+/* Open in new tab button styling */
+.nav_links li a[target="_blank"] {
     background-color: var(--primary-color);
     border: none;
     border-radius: 50px;
@@ -111,13 +111,13 @@ header {
     box-shadow: 0 4px 12px rgba(0, 136, 169, 0.3);
 }
 
-.nav_links li a[download]:hover {
+.nav_links li a[target="_blank"]:hover {
     background-color: var(--primary-hover);
     transform: translateY(-2px);
     box-shadow: 0 6px 16px rgba(0, 136, 169, 0.4);
 }
 
-.nav_links li a[download]::after {
+.nav_links li a[target="_blank"]::after {
     display: none;
 }
 
