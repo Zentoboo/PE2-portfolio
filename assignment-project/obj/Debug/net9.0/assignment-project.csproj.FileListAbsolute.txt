@@ -30,7 +30,6 @@ D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\assignment-p
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\assignment-project.genruntimeconfig.cache
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\ref\assignment-project.dll
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\assignment-project.sourcelink.json
-D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\glma7zhs4k-ri09e3p16c.gz
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\2avu8rcao1-3vev4mtmbu.gz
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\bxyzbcwcf2-jffxaucfba.gz
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\cokln0wv9s-afyd69bbtn.gz
@@ -48,3 +47,5 @@ D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\h
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\k3pj25sdjw-5hp7bdvx0j.gz
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\ef7o4xfpmy-mb83z244l8.gz
 D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\s0h26viyhj-pd72nz5566.gz
+D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\glma7zhs4k-gldn0ep8cn.gz
+D:\study\2504\SWE310\assignment\assignment-project\obj\Debug\net9.0\compressed\9blfp6uxj4-r31pfo85zf.gz

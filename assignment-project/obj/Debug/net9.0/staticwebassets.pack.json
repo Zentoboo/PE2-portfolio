@@ -105,6 +105,10 @@
       "PackagePath": "staticwebassets\\js\\about.js"
     },
     {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\_base.css",
       "PackagePath": "staticwebassets\\styles\\_base.css"
     },
