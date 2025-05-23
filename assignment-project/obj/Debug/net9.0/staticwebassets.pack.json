@@ -33,16 +33,16 @@
       "PackagePath": "staticwebassets\\images\\about\\background\\secretary-bg.jpg"
     },
     {
-      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\portfolio-logo.jpeg",
-      "PackagePath": "staticwebassets\\images\\other\\portfolio-logo.jpeg"
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\index\\portfolio-logo.jpeg",
+      "PackagePath": "staticwebassets\\images\\index\\portfolio-logo.jpeg"
     },
     {
-      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\other\\ppim-logo.png",
-      "PackagePath": "staticwebassets\\images\\other\\ppim-logo.png"
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\index\\ppim-logo.png",
+      "PackagePath": "staticwebassets\\images\\index\\ppim-logo.png"
     },
     {
-      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\profile-photo.jpeg",
-      "PackagePath": "staticwebassets\\images\\profile-photo.jpeg"
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\index\\profile-photo.jpeg",
+      "PackagePath": "staticwebassets\\images\\index\\profile-photo.jpeg"
     },
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\chinese.svg",
@@ -99,6 +99,10 @@
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\images\\skills\\react.png",
       "PackagePath": "staticwebassets\\images\\skills\\react.png"
+    },
+    {
+      "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
     },
     {
       "Id": "D:\\study\\2504\\SWE310\\assignment\\assignment-project\\wwwroot\\styles\\_base.css",

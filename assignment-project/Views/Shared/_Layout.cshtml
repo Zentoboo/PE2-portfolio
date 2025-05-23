@@ -1,6 +1,16 @@
 @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
 @{
     var currentAction = ViewContext.RouteData.Values["action"]?.ToString()?.ToLower();
+
+    //define the last updated time
+    DateTime lastUpdated = new DateTime(2025, 5, 23);
+    DateTime today = DateTime.Today;
+
+    //calculate difference
+    TimeSpan diff = today - lastUpdated;
+    int daysAgo = (int)diff.TotalDays;
+
+    string formattedDate = lastUpdated.ToString("dd/MM/yyyy");
 }
 
 <!DOCTYPE html>
@@ -33,6 +43,7 @@
 
     <footer>
         <p>&copy; 2025 - Christopher Bertrand. All rights reserved.</p>
+        <p>Last updated at @formattedDate (@daysAgo day@(daysAgo != 1 ? "s" : "") ago)</p>
         <p>
             <a href="mailto:c.bertrandtjo@gmail.com">Email</a> |
             <a href="https://github.com/zentoboo" target="_blank">GitHub</a>
